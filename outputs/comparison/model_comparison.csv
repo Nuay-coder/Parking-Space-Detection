@@ -1,0 +1,4 @@
+Model,mAP50,mAP50-95,Precision,Recall
+1. YOLOv8n (baseline),0.1472,0.0342,0.2934,0.2437
+2. YOLOv8n + Aug,0.1864,0.0417,0.3325,0.3209
+3. YOLOv8n + Aug (Tuned),0.1968,0.0456,0.315,0.3213
